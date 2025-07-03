@@ -48,7 +48,7 @@ Welcome to my GitHub profile! I'm a passionate tech enthusiast currently pursuin
 ---
 
 ## 📫 Let's Connect!
-- 🌐 [LinkedIn](https://www.linkedin.com/in/anjalijaisinghani)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/anjali-jaisinghani-764409347)
 - 💼 Portfolio coming soon!
 - 💬 Open to internships, collaborations, and learning opportunities
 
