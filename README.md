@@ -1,54 +1,67 @@
 <h1 align="center">Hi 👋, I'm Anjali Anil Jaisinghani</h1>
-<h3 align="center">A passionate Full Stack Developer & Data Science Enthusiast from India 🇮🇳</h3>
+<h3 align="center">🚀 MCA Student | Java Developer | Web Developer | Data Science Explorer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F75C7E&center=true&width=435&lines=Master's+in+Computer+Applications+%F0%9F%92%BB;Learning+Java%2C+Spring+Boot+%2C+React+%26+DSA+%F0%9F%92%A1;Loves+clean+UI%2FUX+%2B+problem+solving+%F0%9F%92%96" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&width=500&lines=Master's+in+Computer+Applications+%F0%9F%8C%9F;Learning+Spring+Boot%2C+React%2C+DSA+%26+SQL;Coding+Projects+%7C+Python+%7C+Java+%7C+Web+Dev" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🧑‍💻 About Me
+## 🚀 About Me
 
-- 🌱 I’m currently learning **Spring Boot**, **React**, and **DSA**
-- 💡 Exploring the world of **Data Science & Analytics**
-- 📚 Passionate about real-world projects and impactful coding
-- 👨‍💻 All of my projects are available at: [My GitHub Projects](https://github.com/anjalijaisinghani?tab=repositories)
-- 📫 How to reach me: **anjalijaisinghani@gmail.com**
-- 💬 Ask me about: **Java, Python, Web Dev, SQL, Frontend, Backend, Projects**
+- 🎓 Currently pursuing **MCA**  
+- 🌱 Exploring **Spring Boot, React, TypeScript, and DSA**
+- 🧠 Strong in **Java, Python, SQL, Web Technologies**
+- 💬 Ask me about anything related to Java, Web Dev, or MySQL!
+- 📫 Reach me at: anjalijaisinghani@gmail.com
 
 ---
 
-### 🛠️ Languages and Tools
+## 🧰 Tech Stack
 
-<p align="left">
-  
-  <!-- Programming Languages -->
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
-
-  <!-- Frontend -->
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
-
-  <!-- Backend -->
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
-
-  <!-- Tools -->
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
-
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title="Spring Boot" alt="Spring" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 📌 Featured Projects
+
+### 💰 [Expense Tracker App](https://github.com/anjalijaisinghani/expenseXpert)
+> Track, analyze, and manage your expenses effortlessly  
+> **Tech Used:** Python, Django, SQLite, HTML, CSS
+
+---
+
+### 🎵 [Spotify Clone Music Player](https://github.com/anjalijaisinghani/spotify)
+> A responsive music player inspired by Spotify  
+> **Tech Used:** HTML, CSS, JavaScript
+
+---
+
+### 📊 SEO Research Tool (E-commerce)
+> Tool for keyword analysis, competitor tracking, and SEO audits  
+> **Tech Used:** React, Bootstrap, API Integration
+
+---
+
+### 🚌 Bus Booking System
+> A simple Java-based bus ticket booking system with admin and user modules  
+> **Tech Used:** Java, MySQL, JDBC, Java Swing, Eclipse
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anjalijaisinghani&show_icons=true&theme=radical" height="180em"/>
@@ -57,27 +70,27 @@
 
 ---
 
-### 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anjalijaisinghani&theme=dracula&column=6&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=anjalijaisinghani&theme=algolia&no-frame=true&column=6&margin-w=15" />
 </p>
 
 ---
 
-### 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/anjali-jaisinghani-764409347" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:anjalijaisinghani@gmail.com">
-    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-_“Believe in your infinite potential. Your only limitations are those you set upon yourself.”_ 🌟
+_“Believe in your infinite potential. Your only limitations are those you set upon yourself.”_ 💫
 
 ---
