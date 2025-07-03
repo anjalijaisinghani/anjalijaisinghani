@@ -49,11 +49,6 @@
 
 ---
 
-### 📊 SEO Research Tool (E-commerce)
-> Tool for keyword analysis, competitor tracking, and SEO audits  
-> **Tech Used:** React, Bootstrap, API Integration
-
----
 
 ### 🚌 [Bus Booking System](https://github.com/anjalijaisinghani/busook)
 > A simple Java-based bus ticket booking system with admin and user modules  
