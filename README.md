@@ -55,9 +55,10 @@
 
 ---
 
-### 🚌 Bus Booking System
+### 🚌 [Bus Booking System](https://github.com/anjalijaisinghani/busook)
 > A simple Java-based bus ticket booking system with admin and user modules  
 > **Tech Used:** Java, MySQL, JDBC, Java Swing, Eclipse
+
 
 ---
 
