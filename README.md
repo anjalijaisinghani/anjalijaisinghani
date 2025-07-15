@@ -37,6 +37,12 @@
 
 ## 📌 Featured Projects
 
+### 🏦 [Bank Management System](https://github.com/anjalijaisinghani/bank-management-system)
+A desktop-based banking application with login, deposit, withdrawal, balance enquiry, and mini-statement features.  
+**Tech Used:** Java, Java Swing, MySQL, JDBC, IntelliJ IDEA
+
+---
+
 ### 💰 [Expense Tracker App](https://github.com/anjalijaisinghani/expenseXpert)
 > Track, analyze, and manage your expenses effortlessly  
 > **Tech Used:** Python, Django, SQLite, HTML, CSS
