@@ -32,7 +32,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title="Spring Boot" alt="Spring" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" title="GitHub" alt="GitHub" width="40" height="40" style="filter: invert(0.5)"/>&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" title="Tableau" alt="Tableau" width="40" height="40"/>&nbsp;
   <img src="https://img.icons8.com/color/48/power-bi.png" title="Power BI" alt="Power BI" width="40" height="40"/>&nbsp;
 </p>
@@ -67,7 +67,7 @@ A desktop-based banking application with login, deposit, withdrawal, balance enq
 
 ### 📊 [Amazon Sales Analysis Dashboard](https://github.com/anjalijaisinghani/Amazon-sales-Analysis-Dashboard)
 > An interactive dashboard to analyze Amazon sales data  
-> **Tech Used:** Tableau 
+> **Tech Used:** Tableau
 
 ---
 
@@ -82,14 +82,6 @@ A desktop-based banking application with login, deposit, withdrawal, balance enq
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anjalijaisinghani&show_icons=true&theme=radical" height="180em"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjalijaisinghani&layout=compact&theme=radical" height="180em"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anjalijaisinghani&theme=algolia&no-frame=true&column=6&margin-w=15" />
 </p>
 
 ---
