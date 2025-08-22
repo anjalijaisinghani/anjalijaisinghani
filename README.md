@@ -12,8 +12,9 @@
 - 🎓 Currently pursuing **MCA**  
 - 🌱 Exploring **Spring Boot, React, TypeScript, and DSA**
 - 🧠 Strong in **Java, Python, SQL, Web Technologies**
+- 📊 Recently exploring **Tableau & Power BI** for Data Visualization  
 - 💬 Ask me about anything related to Java, Web Dev, or MySQL!
-- 📫 Reach me at: anjalijaisinghani@gmail.com
+- 📫 Reach me at: **anjalijaisinghani@gmail.com**
 
 ---
 
@@ -31,6 +32,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title="Spring Boot" alt="Spring" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" title="Tableau" alt="Tableau" width="40" height="40"/>&nbsp;
+  <img src="https://img.icons8.com/color/48/power-bi.png" title="Power BI" alt="Power BI" width="40" height="40"/>&nbsp;
 </p>
 
 ---
@@ -39,27 +43,37 @@
 
 ### 🏦 [Bank Management System](https://github.com/anjalijaisinghani/bank-management-system)
 A desktop-based banking application with login, deposit, withdrawal, balance enquiry, and mini-statement features.  
-**Tech Used:** Java, Java Swing, MySQL, JDBC, IntelliJ IDEA
+**Tech Used:** Java, Java Swing, MySQL, JDBC, IntelliJ IDEA  
 
 ---
 
 ### 💰 [Expense Tracker App](https://github.com/anjalijaisinghani/expenseXpert)
 > Track, analyze, and manage your expenses effortlessly  
-> **Tech Used:** Python, Django, SQLite, HTML, CSS
+> **Tech Used:** Python, Django, SQLite, HTML, CSS  
 
 ---
 
 ### 🎵 [Spotify Clone Music Player](https://github.com/anjalijaisinghani/spotify)
 > A responsive music player inspired by Spotify  
-> **Tech Used:** HTML, CSS, JavaScript
+> **Tech Used:** HTML, CSS, JavaScript  
 
 ---
 
-
 ### 🚌 [Bus Booking System](https://github.com/anjalijaisinghani/busook)
 > A simple Java-based bus ticket booking system with admin and user modules  
-> **Tech Used:** Java, MySQL, JDBC, Java Swing, Eclipse
+> **Tech Used:** Java, MySQL, JDBC, Java Swing, Eclipse  
 
+---
+
+### 📊 [Amazon Sales Analysis Dashboard](https://github.com/anjalijaisinghani/Amazon-sales-Analysis-Dashboard)
+> An interactive dashboard to analyze Amazon sales data  
+> **Tech Used:** Tableau 
+
+---
+
+### ☕ [Starbugs Sales Dashboard](https://github.com/anjalijaisinghani/starbugs-dashboard)
+> A visually appealing dashboard for Starbucks-like data  
+> **Tech Used:** Power BI  
 
 ---
 
@@ -94,5 +108,3 @@ A desktop-based banking application with login, deposit, withdrawal, balance enq
 ---
 
 _“Believe in your infinite potential. Your only limitations are those you set upon yourself.”_ 💫
-
----
