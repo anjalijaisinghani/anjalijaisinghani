@@ -77,6 +77,13 @@ A desktop-based banking application with login, deposit, withdrawal, balance enq
 
 ---
 
+### 🎬 [Netflix Movies & TV Shows Dashboard](https://github.com/anjalijaisinghani/Netflix_data_dashboard)
+> An interactive dashboard providing data-driven insights on Netflix's content library  
+> **Tech Used:** Power BI
+
+---
+
+
 ## 📈 GitHub Stats
 
 <p align="center">
