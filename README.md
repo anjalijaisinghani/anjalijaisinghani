@@ -85,9 +85,9 @@
 
 ### 🎮 Rock-Paper-Scissors Game
 
-Built just for fun and to practice my **HTML, CSS, and JavaScript** skills.  
-Play the classic **Rock-Paper-Scissors** game against the computer! 🤖✊✋✌️  
-Focused on improving my **JavaScript logic** and **UI styling**.  
+> Built just for fun and to practice my **HTML, CSS, and JavaScript** skills.  
+> Play the classic **Rock-Paper-Scissors** game against the computer! 🤖✊✋✌️  
+> Focused on improving my **JavaScript logic** and **UI styling**.  
 
 👉 [**Play Now 🥳😎**](https://anjalijaisinghani.github.io/rock-paper-scissor/)
 
