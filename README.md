@@ -83,6 +83,13 @@ A desktop-based banking application with login, deposit, withdrawal, balance enq
 
 ---
 
+### 🎮 [Rock-Paper-Scissors Game](https://github.com/anjalijaisinghani/rock-paper-scissor)
+> A simple and fun mini project built using HTML, CSS, and JavaScript.
+> Created just for fun and to practice my front-end skills.
+> Users can play the classic Rock-Paper-Scissors game against the computer
+> you can directly play with computer just click the below link😊😎
+> https://anjalijaisinghani.github.io/rock-paper-scissor/
+
 
 ## 📈 GitHub Stats
 
