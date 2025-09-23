@@ -42,8 +42,8 @@
 ## 📌 Featured Projects
 
 ### 🏦 [Bank Management System](https://github.com/anjalijaisinghani/bank-management-system)
-A desktop-based banking application with login, deposit, withdrawal, balance enquiry, and mini-statement features.  
-**Tech Used:** Java, Java Swing, MySQL, JDBC, IntelliJ IDEA  
+> A desktop-based banking application with login, deposit, withdrawal, balance enquiry, and mini-statement features.  
+> **Tech Used:** Java, Java Swing, MySQL, JDBC, IntelliJ IDEA  
 
 ---
 
@@ -84,11 +84,11 @@ A desktop-based banking application with login, deposit, withdrawal, balance enq
 ---
 
 ### 🎮 [Rock-Paper-Scissors Game](https://github.com/anjalijaisinghani/rock-paper-scissor)
-> A simple and fun mini project built using HTML, CSS, and JavaScript.
-> Created just for fun and to practice my front-end skills.
+> Created just for fun and to practice my front-end skills
 > Users can play the classic Rock-Paper-Scissors game against the computer
-> you can directly play with computer just click the below link😊😎
-> https://anjalijaisinghani.github.io/rock-paper-scissor/
+> **Tech Used:** HTML, CSS, JavaScript
+> you can directly play with computer just click the given play botton😊😎
+> [Play🥳😎](https://anjalijaisinghani.github.io/rock-paper-scissor/)
 
 
 ## 📈 GitHub Stats
