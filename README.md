@@ -83,12 +83,13 @@
 
 ---
 
-### 🎮 [Rock-Paper-Scissors Game](https://github.com/anjalijaisinghani/rock-paper-scissor)
-> Created just for fun and to practice my front-end skills
-> Users can play the classic Rock-Paper-Scissors game against the computer
-> **Tech Used:** HTML, CSS, JavaScript
-> you can directly play with computer just click the given play botton😊😎
-> [Play🥳😎](https://anjalijaisinghani.github.io/rock-paper-scissor/)
+### 🎮 Rock-Paper-Scissors Game
+
+Built just for fun and to practice my **HTML, CSS, and JavaScript** skills.  
+Play the classic **Rock-Paper-Scissors** game against the computer! 🤖✊✋✌️  
+Focused on improving my **JavaScript logic** and **UI styling**.  
+
+👉 [**Play Now 🥳😎**](https://anjalijaisinghani.github.io/rock-paper-scissor/)
 
 
 ## 📈 GitHub Stats
