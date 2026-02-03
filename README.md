@@ -1,96 +1,62 @@
 <h1 align="center">Hi 👋, I'm Anjali Anil Jaisinghani</h1>
-<h3 align="center">🚀 MCA Student | Java Developer | Web Developer | Data Science Explorer</h3>
+<h3 align="center">🚀 MCA Graduate | Full-Stack Java Developer | Data Science Explorer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&width=500&lines=Master's+in+Computer+Applications+%F0%9F%8C%9F;Learning+Spring+Boot%2C+React%2C+DSA+%26+SQL;Coding+Projects+%7C+Python+%7C+Java+%7C+Web+Dev" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&width=500&lines=Master's+in+Computer+Applications+%F0%9F%8C%9F;Building+Full-Stack+Java+Applications;React+%E2%80%A2+Spring+Boot+%E2%80%A2+MySQL;Transforming+Data+into+Insights" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 Currently pursuing **MCA**  
-- 🌱 Exploring **Spring Boot, React, TypeScript, and DSA**
-- 🧠 Strong in **Java, Python, SQL, Web Technologies**
-- 📊 Recently exploring **Tableau & Power BI** for Data Visualization  
-- 💬 Ask me about anything related to Java, Web Dev, or MySQL!
+- 🎓 **Education:** Currently pursuing **Master's in Computer Applications (MCA)**.
+- 💻 **Focus:** Specialized in **Java Full-Stack Development**, building scalable backend services and responsive frontends.
+- 🌱 **Learning:** Deep diving into **Spring Security (BCrypt)**, RESTful API design, and Advanced DSA.
+- 📊 **Analytics:** Experienced in creating data-driven stories using **Tableau** and **Power BI**.
 - 📫 Reach me at: **anjalijaisinghani@gmail.com**
 
 ---
 
 ## 🧰 Tech Stack
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title="Spring Boot" alt="Spring" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" title="GitHub" alt="GitHub" width="40" height="40" style="filter: invert(0.5)"/>&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" title="Tableau" alt="Tableau" width="40" height="40"/>&nbsp;
-  <img src="https://img.icons8.com/color/48/power-bi.png" title="Power BI" alt="Power BI" width="40" height="40"/>&nbsp;
-</p>
+### 🖥️ Development
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+### 📊 Data & Tools
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
 ## 📌 Featured Projects
 
+### 🚗 [Ride-Share Full-Stack App](https://github.com/anjalijaisinghani/Ride-Share)
+> **Full-Stack Java Project**
+> A modern ride-sharing platform that connects drivers with passengers.
+> - **Backend:** Developed with **Spring Boot** and **Spring Data JPA**.
+> - **Frontend:** Interactive UI built with **React.js**.
+> - **Security:** Implemented **BCrypt password hashing** for secure user authentication.
+> - **Database:** Relational schema designed in **MySQL** for optimized ride matching.
+
 ### 🏦 [Bank Management System](https://github.com/anjalijaisinghani/bank-management-system)
-> A desktop-based banking application with login, deposit, withdrawal, balance enquiry, and mini-statement features.  
-> **Tech Used:** Java, Java Swing, MySQL, JDBC, IntelliJ IDEA  
+> Core banking application with secure transaction modules.
+> **Tech:** Java, Swing, JDBC, MySQL.
 
----
-
-### 💰 [Expense Tracker App](https://github.com/anjalijaisinghani/expenseXpert)
-> Track, analyze, and manage your expenses effortlessly  
-> **Tech Used:** Python, Django, SQLite, HTML, CSS  
-
----
-
-### 🎵 [Spotify Clone Music Player](https://github.com/anjalijaisinghani/spotify)
-> A responsive music player inspired by Spotify  
-> **Tech Used:** HTML, CSS, JavaScript  
-
----
-
-### 🚌 [Bus Booking System](https://github.com/anjalijaisinghani/busook)
-> A simple Java-based bus ticket booking system with admin and user modules  
-> **Tech Used:** Java, MySQL, JDBC, Java Swing, Eclipse  
-
----
+### 💰 [Expense Tracker (ExpenseXpert)](https://github.com/anjalijaisinghani/expenseXpert)
+> Automated financial tracking with categorization and insights.
+> **Tech:** Python, Django, SQLite.
 
 ### 📊 [Amazon Sales Analysis Dashboard](https://github.com/anjalijaisinghani/Amazon-sales-Analysis-Dashboard)
-> An interactive dashboard to analyze Amazon sales data  
-> **Tech Used:** Tableau
+> Interactive data visualization to identify sales trends and inventory needs.
+> **Tech:** Tableau.
 
 ---
-
-### ☕ [Starbugs Sales Dashboard](https://github.com/anjalijaisinghani/starbugs-dashboard)
-> A visually appealing dashboard for Starbucks-like data  
-> **Tech Used:** Power BI  
-
----
-
-### 🎬 [Netflix Movies & TV Shows Dashboard](https://github.com/anjalijaisinghani/Netflix_data_dashboard)
-> An interactive dashboard providing data-driven insights on Netflix's content library  
-> **Tech Used:** Power BI
-
----
-
-### 🎮 [Rock-Paper-Scissors Game](https://github.com/anjalijaisinghani/rock-paper-scissor)
-
-> Built just for fun and to practice my **HTML, CSS, and JavaScript** skills.  
-> Play the classic **Rock-Paper-Scissors** game against the computer! 🤖✊✋✌️  
-> Focused on improving my **JavaScript logic** and **UI styling**.  
-
-👉 [**Play Now 🥳😎**](https://anjalijaisinghani.github.io/rock-paper-scissor/)
-
 
 ## 📈 GitHub Stats
 
@@ -104,14 +70,13 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/anjali-jaisinghani-764409347" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:anjalijaisinghani@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
-  </a>
+<a href="https://www.linkedin.com/in/anjali-jaisinghani-764409347" target="_blank">
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:anjalijaisinghani@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 </p>
 
 ---
-
-_“Believe in your infinite potential. Your only limitations are those you set upon yourself.”_ 💫
+_“Code is like humor. When you have to explain it, it’s bad.” – Keep building!_ 🚀
