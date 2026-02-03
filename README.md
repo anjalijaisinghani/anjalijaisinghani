@@ -83,7 +83,7 @@
 
 ---
 
-### 🎮 Rock-Paper-Scissors Game
+### 🎮 [Rock-Paper-Scissors Game](https://github.com/anjalijaisinghani/rock-paper-scissor)
 
 > Built just for fun and to practice my **HTML, CSS, and JavaScript** skills.  
 > Play the classic **Rock-Paper-Scissors** game against the computer! 🤖✊✋✌️  
